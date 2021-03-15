@@ -1,5 +1,5 @@
 # RandomProjects
-Here is some tools that might come in handy
+Here is some tools that might come in handy\
 creq.sh is a shell script that lists the dependencies for any *.c in your current directory and subdirectories.
 Add it to a directory in your $PATH to use anywhere!
 usage:
